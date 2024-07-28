@@ -1,0 +1,2 @@
+sudo rosdep init
+rosdep update
